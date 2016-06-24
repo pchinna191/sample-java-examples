@@ -1,5 +1,5 @@
 package com.test.bean;
-
+//this is bean class
 public class Person {
 	
 
